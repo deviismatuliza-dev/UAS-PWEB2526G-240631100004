@@ -15,7 +15,7 @@ include 'navbar.php';
 
 <div class="container">
     <div class="card home">
-    <h1>🌸 Sistem Data Kontak 🌸</h1>
+    <h1>  Sistem Data Kontak </h1>
 
     <p>
         Selamat datang di aplikasi Sistem Data Kontak.
